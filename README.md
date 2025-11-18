@@ -1,4 +1,6 @@
-<h1>Hi 👋, I'm Rahul, a full-stack AI/ML developer 👨‍💻 A Pre-Final Year IT Undergraduate at BIT Sindri, Dhanbad 🚀</h1>
+<h1> Hi 👋, I'm Rahul, a full-stack AI/ML developer 
+  
+   👨‍💻 A Pre-Final Year IT Undergraduate at BIT Sindri, Dhanbad 🚀</h1>
   
 - 🔭 I’m currently working on [Emotion Aware Music Recommender](https://github.com/rahulll13/AI-Powered-Emotion-Aware-Music-Recommender-System.git)  
   
