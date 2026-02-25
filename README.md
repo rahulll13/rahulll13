@@ -1,22 +1,23 @@
-<h1> Hi 👋, I'm Rahul, a full-stack AI/ML developer 
-  
-   👨‍💻 A Pre-Final Year IT Undergraduate at BIT Sindri, Dhanbad 🚀</h1>
-  
-- 🔭 I’m currently working on Emotion Aware Music Recommender  
-  
+<h1 align="center"> Hi 👋, I'm Rahul, a full-stack AI/ML developer </h1>
+<h3 align="center"> 👨‍💻 A Pre-Final Year IT Undergraduate at BIT Sindri, Dhanbad 🚀</h3>
 
-- 🌱 I’m currently learning AI/ML and CyberSecurity  
-  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulll13&label=Profile%20Views&color=0a77b6&style=flat-square" alt="Profile View Counter" />
+</p>
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+<br/>
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- 🔭 I’m currently working on an **Emotion Aware Music Recommender** and **ExamPro** (the official examination management portal for BIT Sindri).
+- 💼 Previously interned at **Infosys Springboard** (developed an AI-Powered App for Early Detection of Heart Disease Risk) and **IBM SkillsBuild** (AI & Cloud).
+- 🌱 I’m continually expanding my knowledge in **AI/ML**, **Django**, and **Cybersecurity**.
+- ❓ Ask me about anything related to the **MERN stack** and full-stack architecture.
+- ⚡ Fun fact: I use tabs over spaces.
 
-<br/>  
+<br/>
+
 <h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<p>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -52,11 +53,33 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/rahul-kumar-sinha-bba5532ab" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulll13&show_icons=true&locale=en" alt="rahulll13" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulll13&" alt="rahulll13" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulll13&show_icons=true&locale=en&layout=compact" alt="rahulll13" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulll13" alt="rahulll13" /></a></p>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+</p>
 
+<br/>
+
+<h2>⚡️ Where to find me</h2>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/rahul-kumar-sinha-bba5532ab">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulll13&show_icons=true&locale=en&theme=tokyonight" alt="rahulll13 stats" height="190" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulll13&theme=tokyonight" alt="rahulll13 streak" height="190" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulll13&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahulll13&theme=tokyonight" alt="rahulll13 trophies" />
+  </a>
+</div>
