@@ -8,13 +8,12 @@
 <br/>
 
 - 🔭 I’m currently working on an **Emotion Aware Music Recommender** and **ExamPro** (the official examination management portal for BIT Sindri).
-- 💼 Previously interned at **Infosys Springboard** (developed an AI-Powered App for Early Detection of Heart Disease Risk) and **IBM SkillsBuild** (AI & Cloud).
+- 💼 Previously interned at **Infosys Springboard** and **IBM SkillsBuild** (AI & Cloud).
 - 🌱 I’m continually expanding my knowledge in **AI/ML**, **Django**, and **Cybersecurity**.
 - ❓ Ask me about anything related to the **MERN stack** and full-stack architecture.
 - ⚡ Fun fact: I use tabs over spaces.
 
 <br/>
-
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
