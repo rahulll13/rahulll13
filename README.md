@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on an **Emotion Aware Music Recommender** and **ExamPro** (the official examination management portal for BIT Sindri).
+- 🔭 I’m currently working on **ExamPro** (the official examination management portal for BIT Sindri).
 - 💼 Previously interned at **Infosys Springboard** and **IBM SkillsBuild** (AI & Cloud).
 - 🌱 I’m continually expanding my knowledge in **AI/ML**, **Django**, and **Cybersecurity**.
 - ❓ Ask me about anything related to the **MERN stack** and full-stack architecture.
