@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Rahul, a full-stack AI/ML developer </h1>
-<h3 align="center"> 👨‍💻 A Pre-Final Year IT Undergraduate at BIT Sindri, Dhanbad 🚀</h3>
+<h3 align="center"> 👨‍💻 A Final Year IT Undergraduate 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulll13&label=Profile%20Views&color=0a77b6&style=flat-square" alt="Profile View Counter" />
