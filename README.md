@@ -86,16 +86,20 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulll13&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="rahulll13 stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulll13&theme=tokyonight&hide_border=true" alt="rahulll13 streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulll13&amp;show_icons=true&amp;locale=en&amp;theme=tokyonight&amp;hide_border=true" alt="rahulll13 stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=rahulll13&amp;theme=tokyonight&amp;hide_border=true" alt="rahulll13 streak" height="165" />
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulll13&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulll13&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
 </div>
+
 <br/>
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahulll13&theme=tokyonight&no-frame=true&margin-w=15" alt="rahulll13 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rahulll13&amp;theme=tokyonight&amp;no-frame=true&amp;margin-w=15" alt="rahulll13 trophies" />
   </a>
 </div>
