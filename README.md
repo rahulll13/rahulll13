@@ -85,10 +85,21 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-![rahulll13 stats](https://github-readme-stats.vercel.app/api?username=rahulll13&show_icons=true&theme=tokyonight&hide_border=true&v=2)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulll13&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="rahulll13 stats" />
+  <img src="https://streak-stats.demolab.com/?user=rahulll13&amp;theme=tokyonight&amp;hide_border=true" alt="rahulll13 streak" />
+</div>
 
-![rahulll13 streak](https://streak-stats.demolab.com/?user=rahulll13&theme=tokyonight&hide_border=true&v=2)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rahulll13&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&v=2)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulll13&amp;show_icons=true&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
+</div>
 
-[![rahulll13 trophies](https://github-profile-trophy.vercel.app/?username=rahulll13&theme=tokyonight&no-frame=true&v=2)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahulll13&amp;theme=tokyonight&amp;no-frame=true&amp;margin-w=15" alt="rahulll13 trophies" />
+  </a>
+</div>
