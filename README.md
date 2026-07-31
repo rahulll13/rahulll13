@@ -19,7 +19,7 @@
 ### 👨🏻‍💻 About Me
 
 - 🔭 I’m currently working on **ExamCell Pro** *(the official examination management portal for BIT Sindri)*.
-- 💼 Previously interned at **Infosys Springboard** & **IBM SkillsBuild** (AI & Cloud) and **Microsoft Elevate** (Power BI).
+- 💼 Previously interned at **Infosys** & **IBM SkillsBuild** (AI & Cloud) and **Microsoft Elevate** (Power BI).
 - 🌱 I’m continually expanding my knowledge in **AI/ML**, **Django**, and **Cybersecurity**.
 - ⚡ Fun fact: *I use tabs over spaces.*
 
