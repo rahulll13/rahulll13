@@ -29,7 +29,7 @@
 
 <p align="center">
   <b>Programming Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,bash" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,bash" alt="Programming Languages" />
 </p>
 
 <p align="center">
