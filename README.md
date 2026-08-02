@@ -34,24 +34,23 @@
 
 <p align="center">
   <b>AI, ML & Data Science</b><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="AI and ML" />
+  <img src="https://skillicons.dev/icons?i=sklearn,opencv" alt="AI and ML" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop" />
 </p>
 
 <p align="center">
   <b>Web & Mobile Development</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,express,django,flask,react,android" alt="Web & Mobile" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django,flask,react" alt="Web-developement" />
 </p>
 
 <p align="center">
   <b>Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases" />
 </p>
 
 <p align="center">
   <b>Cloud, DevOps & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,heroku,linux,git,figma,illustrator,blender" alt="Cloud and Tools" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,figma" alt="Cloud and Tools" />
 </p>
 
 ---
